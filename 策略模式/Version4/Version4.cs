@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 
 namespace 策略模式.version4
 {
@@ -26,7 +26,6 @@ namespace 策略模式.version4
             float result = cc.ContextInterface(total);
             
             Console.WriteLine(result);
-            Console.WriteLine("这是新添加的");
         }
 
         static float CulTotal(float price, int num)
