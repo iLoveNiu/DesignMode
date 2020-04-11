@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\admin\.Rider2019.3\config\consoles\ide" t="IncludeRecursive" />
+    <e p="C:\Users\admin\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\admin\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\admin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_设计模式.-1034960797.00" t="ExcludeRecursive" />
+    <e p="F:\CSharp\设计模式" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SimpleFactory" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="SimpleFactory.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SimpleFactory.csproj" t="IncludeRecursive" />
+        <e p="Version1" t="Include">
+          <e p="Version1.cs" t="Include" />
+        </e>
+        <e p="Version2" t="Include">
+          <e p="Version2.cs" t="Include" />
+        </e>
+        <e p="Version3" t="Include">
+          <e p="Operation.cs" t="Include" />
+          <e p="Version3.cs" t="Include" />
+        </e>
+        <e p="Version4" t="Include">
+          <e p="Operation.cs" t="Include" />
+          <e p="OperationAdd.cs" t="Include" />
+          <e p="OperationDiv.cs" t="Include" />
+          <e p="OperationFactory.cs" t="Include" />
+          <e p="OperationMul.cs" t="Include" />
+          <e p="OperationSub.cs" t="Include" />
+          <e p="Version4.cs" t="Include" />
+        </e>
+      </e>
+      <e p="策略模式" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="策略模式.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Version1" t="Include">
+          <e p="Version1.cs" t="Include" />
+        </e>
+        <e p="Version2" t="Include">
+          <e p="CashFactory.cs" t="Include" />
+          <e p="CashSuper.cs" t="Include" />
+          <e p="CashSuperNormal.cs" t="Include" />
+          <e p="CashSuperRebate.cs" t="Include" />
+          <e p="CashSuperReturn.cs" t="Include" />
+          <e p="Version2.cs" t="Include" />
+        </e>
+        <e p="Version3" t="Include">
+          <e p="Version3.cs" t="Include" />
+          <e p="策略模式，封装算法" t="Include">
+            <e p="CashContext.cs" t="Include" />
+            <e p="CashSuper.cs" t="Include" />
+            <e p="CashSuperNormal.cs" t="Include" />
+            <e p="CashSuperRebate.cs" t="Include" />
+            <e p="CashSuperReturn.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Version4" t="Include">
+          <e p="CashSuper.cs" t="Include" />
+          <e p="CashSuperNormal.cs" t="Include" />
+          <e p="CashSuperRebate.cs" t="Include" />
+          <e p="CashSuperReturn.cs" t="Include" />
+          <e p="Version4.cs" t="Include" />
+          <e p="策略模式+简单工厂" t="Include">
+            <e p="CashContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="策略模式.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="设计模式.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
